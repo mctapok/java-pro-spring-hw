@@ -1,4 +1,4 @@
-rootProject.name = 'java-pro-spring'
+rootProject.name = 'java-pro-spring-hw'
 include 'api'
 include 'backend'
 
